@@ -3,4 +3,4 @@
 - Simple tool for process injection using ptrace()
 
 ## > Paper
-🇧🇷 https://λ.gitbook.io/main/main/papers/__malware_dev/linux/process-injection-or-ptrace
+🇧🇷 https://λ.gitbook.io/schizohub/papers/computaria/__malware_dev/linux/process-injection-com-ptrace
